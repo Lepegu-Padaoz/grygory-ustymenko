@@ -1,4 +1,3 @@
-using Medical.API;
 using Medical.API.Extensions;
 using Medical.API.Middlewares;
 using Microsoft.OpenApi.Models;
@@ -12,6 +11,7 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Medical API", Version = "v1" });
 });
 
+// registration of AutoMapper
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 // registration of own services for DAL/BL layers
 builder.Services.AddDataAccessLayer(builder.Configuration);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mtqh4bO5H4q5IG1EI3CwDa1Ydu2tgFXBLli3bea9P6Pq4JcUB/nimQpN/xibgqYXSTF0byqYRJdoUrg3yN0byQ==",
+  "dgSpecHash": "9kbSjzOq7Qh9DM+Qb/KuU5CZPyjIuOCwYbYl653ffTqH9cJjIRAxM9tUWF4AUV8U9YwnEbxcQjO97wrn+BXOkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.API.UnitTests\\Medical.API.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.API.UnitTests\\Medical.API.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akost\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\akost\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

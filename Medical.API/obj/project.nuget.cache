@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jiWewEXqNI7pZ2rxz2oB+zo01MR60bHEfaXCo6jx2Wko8OP6TaKG4jULY8DbsW9qiwh2QHiM5mHVJfFRTSKahA==",
+  "dgSpecHash": "inNySFLAw8xarh8SFRpSdlcqmHNmiVY+eosZeE6CNEMO3qarttS6Fe7Djekxl5w3tLmcy6oeXE9EaQlzIkGFyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.API\\Medical.API.csproj",
+  "projectFilePath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.API\\Medical.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akost\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\akost\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

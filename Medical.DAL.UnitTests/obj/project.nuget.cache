@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q7jhc0XG/8P7tXopKsokVGiIBjKzr1806IFrbl542nl8RIIlwxzZB6zr/Vk0TVmFmVzBt6fT299b0hhApAP5EQ==",
+  "dgSpecHash": "DkcdURiWDY6ovdg4WUfQFq2LzX/TBjnwn8GcpLuzqzzBaQNlZsJnhlgtSl1hjWJfh5V+0VbAKbfZ2wmooS+b1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akost\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\akost\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

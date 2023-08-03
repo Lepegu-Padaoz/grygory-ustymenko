@@ -4,6 +4,9 @@ using System.Text.Json;
 
 namespace Medical.API.Middlewares
 {
+    /// <summary>
+    /// Global handling middleware to handle exceptions which occurres during runtime
+    /// </summary>
     public class ErrorHandlingMiddleware
     {
         private readonly RequestDelegate _next;

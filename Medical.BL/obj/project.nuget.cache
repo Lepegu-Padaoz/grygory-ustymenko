@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Psy4ybJd3C33WoUb4QpijNvNZ3UIzveScdv9yfKF6XTJ797QKX+q5OLh617mddpLq5Q1i8MPBgpNpg4wgBVvrw==",
+  "dgSpecHash": "8faEtiQDCZ/kYPcQ4s9R21LnwOG+430k7GE/OwfB05ZEVg5S+EEPvs6t1Zhr9HRAR7Wa8P6g/t5dAdy6KnaBBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.BL\\Medical.BL.csproj",
+  "projectFilePath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.BL\\Medical.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akost\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\akost\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

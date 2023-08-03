@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj": {}
+    "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj": {
+    "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj",
         "projectName": "Medical.DAL.UnitTests",
-        "projectPath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj",
+        "projectPath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL.UnitTests\\Medical.DAL.UnitTests.csproj",
         "packagesPath": "C:\\Users\\akost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\Medical.DAL.csproj": {
-                "projectPath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\Medical.DAL.csproj"
+              "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\Medical.DAL.csproj": {
+                "projectPath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\Medical.DAL.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\Medical.DAL.csproj": {
+    "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\Medical.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\Medical.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\Medical.DAL.csproj",
         "projectName": "Medical.DAL",
-        "projectPath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\Medical.DAL.csproj",
+        "projectPath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\Medical.DAL.csproj",
         "packagesPath": "C:\\Users\\akost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\obj\\",
+        "outputPath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

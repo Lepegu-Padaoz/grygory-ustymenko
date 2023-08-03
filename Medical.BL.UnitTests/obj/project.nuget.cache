@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SxgwsQq2E8UnHaMvNzpCWIAlzUbvTCNE46k/uwdE3fd0Xj7MKrMNNy1qS1Ecxon+hoZWOglCpdjJIpkyVgxkXA==",
+  "dgSpecHash": "IdQE1gQbc+KRhnlRfAIVxDvLa87GgSE8E9gC1UdSlzpjAlPyf0i5IR+ZkB6KBu0EoGf6jczGb2qvqJcde65ztQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.BL.UnitTests\\Medical.BL.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.BL.UnitTests\\Medical.BL.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akost\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\akost\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "twUFHVi7IxbDJdb8YBliIqCYR1h4pMHFBJKgvJfnvdZgEVCSMPm/Bs6U9UAfrfxb6CTlI7Mnig9/4gV42oXRCg==",
+  "dgSpecHash": "zKmjJYcneSohaRRm2NAyQN4u3pfhWHylIgL60RsNLB5kMJNfbhrnUZvZTDDVV/6jpFv2QGBw0ndjDXwAEJo5Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\Medical.DAL.csproj",
+  "projectFilePath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\Medical.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akost\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\akost\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

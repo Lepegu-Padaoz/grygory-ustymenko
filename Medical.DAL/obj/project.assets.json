@@ -2064,11 +2064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\Medical.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\Medical.DAL.csproj",
       "projectName": "Medical.DAL",
-      "projectPath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\Medical.DAL.csproj",
+      "projectPath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\Medical.DAL.csproj",
       "packagesPath": "C:\\Users\\akost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akost\\source\\repos\\MedicalApp\\Medical.DAL\\obj\\",
+      "outputPath": "C:\\Users\\akost\\source\\repos\\medical-src\\Medical.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

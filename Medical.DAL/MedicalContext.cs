@@ -15,6 +15,7 @@ namespace Medical.DAL
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            // Some settings to write enum into database not in INT type but in NVARCHAR type (for example: not 0,1,etc but Orthopedics, Cardiology, etc) 
             modelBuilder
                 .Entity<Doctor>()
                 .Property(e => e.Category)

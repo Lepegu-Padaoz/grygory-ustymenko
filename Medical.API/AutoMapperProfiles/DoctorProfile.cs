@@ -4,6 +4,9 @@ using Medical.DAL.Entities;
 
 namespace Medical.API.AutoMapperProfiles
 {
+    /// <summary>
+    /// Profile to map Doctor entity to DTO
+    /// </summary>
     public class DoctorProfile : Profile
     {
         public DoctorProfile()

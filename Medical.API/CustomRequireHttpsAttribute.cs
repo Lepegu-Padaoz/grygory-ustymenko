@@ -5,6 +5,9 @@ using System.Web.Http.Filters;
 
 namespace Medical.API
 {
+    /// <summary>
+    /// Attribute for https only connections
+    /// </summary>
     public class CustomRequireHttpsAttribute : AuthorizationFilterAttribute
     {
         public override void OnAuthorization(HttpActionContext actionContext)
