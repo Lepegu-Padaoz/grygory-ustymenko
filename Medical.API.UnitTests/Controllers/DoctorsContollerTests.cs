@@ -14,15 +14,13 @@ namespace Medical.API.UnitTests.Controllers
     public class DoctorsContollerTests
     {
         private DoctorsController _doctorsController;
-        private Mock<ILogger<DoctorsController>> _loggerMock;
         private Mock<IDoctorService> _doctorServiceMock;
 
         [SetUp]
         public void Setup()
         {
-            _loggerMock = new Mock<ILogger<DoctorsController>>();
             _doctorServiceMock = new Mock<IDoctorService>();
-            _doctorsController = new DoctorsController(_loggerMock.Object, _doctorServiceMock.Object);
+            _doctorsController = new DoctorsController(_doctorServiceMock.Object);
         }
 
         [Test]
