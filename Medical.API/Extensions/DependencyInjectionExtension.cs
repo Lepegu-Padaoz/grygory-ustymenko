@@ -1,6 +1,8 @@
 ﻿using Medical.BL.Services;  
 using Medical.BL.Services.Interfaces;
-using Medical.DAL; 
+using Medical.DAL;
+using Medical.DAL.BlobStorage;
+using Medical.DAL.BlobStorage.Interfaces;
 using Medical.DAL.Repositories; 
 using Medical.DAL.Repositories.Interfaces;
 
@@ -18,6 +20,12 @@ namespace Medical.API.Extensions
             services.AddSqlServer<MedicalContext>(configuration.GetConnectionString("DatabaseConnectionString"));
             // Registering the CosmosContext using a connection string from configuration
             services.AddCosmos<CosmosContext>(configuration.GetConnectionString("CosmosConnectionString")!, configuration.GetConnectionString("CosmosDatabaseName")!);
+            // Registering Azure Blob Storage
+            var blobStorageConnectionString = configuration.GetConnectionString("AzureBlobStorageConnectionString");
+            var config = new BlobConfiguration(blobStorageConnectionString);
+
+            services.AddSingleton(config);
+            services.AddScoped<IBlobStorage, BlobStorage>();
         }
 
         // Method to register BusinessLayer dependencies
@@ -25,6 +33,7 @@ namespace Medical.API.Extensions
         {
             services.AddScoped<IDoctorService, DoctorService>();
             services.AddScoped<IHospitalService, HospitalService>();
+            services.AddScoped<IRelationService, RelationService>();
         }
     }
 }
