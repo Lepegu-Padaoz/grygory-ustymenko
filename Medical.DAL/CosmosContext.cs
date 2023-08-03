@@ -13,6 +13,7 @@ namespace Medical.DAL
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            // Mapping partition key in cosmos db to entities's ids
             modelBuilder.Entity<Hospital>().ToContainer("Hospitals").HasPartitionKey(x => x.Id);
         }
     }
